@@ -24,3 +24,12 @@ email : employee@bewithdhanu.in
 password : 123456 
 
 Once you logged in with System Administrator account, you can create user or edit previous user if you want.
+Dependencies
+
+NAME	VERSION	WEB	REPO
+CodeIgniter	3.1.0	Website	Github
+AdminLTE	2.3.5	Website	Github
+Bootstrap	3.3.7	Website	Github
+Ion Auth	2.6.0	Website	Github
+jQuery	2.2.4	Website	Github
+Font Awesome	4.6.3	Website	Github
