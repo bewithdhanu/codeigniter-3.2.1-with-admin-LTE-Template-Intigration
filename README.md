@@ -6,6 +6,8 @@ Download the code from repository. Unzip the zip file.
 Open browser; goto localhost/phpmyadmin. 
 Import the file "db.sql" in that database. 
 
+Change database.php in application/config/database.php with your own database details that created previously by importing db.sql
+
 Copy the remaining code into your root directory Open browser; goto localhost/[project-folder-name] and press enter
 
 The login screen will appear. 
